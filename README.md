@@ -1,7 +1,17 @@
 # PyTorch for Deep Learning
-Perfect 😎 — here’s a **course-promo style** version of your “What You’ll Learn” section with polished formatting, engaging emojis, and bold emphasis — just like you’d see on **Udemy**, **Coursera**, or **DeepLearning.ai** pages 👇
 
+## 🎯 **Recommended Background**
+### 🧩 **Start Strong, Learn Faster**
+To get the most out of this **Professional Certificate**, you should have:
 
+* 🐍 **Basic Python programming skills** — familiarity with data types, loops, and functions.
+* 🧠 **Foundational knowledge of deep learning concepts**, including **neural networks**, **activation functions**, and **training basics**.
+
+If you’ve completed the **Deep Learning Specialization by DeepLearning.AI**, or have equivalent experience, you’ll be well-prepared to dive into this program with confidence.
+
+✨ Don’t worry if you’re not an expert yet — the courses include **guided projects**, **step-by-step labs**, and **practical examples** to help you quickly bridge any gaps.
+
+Would you like me to now **bundle all sections** (About, Why Learn, What You’ll Learn, Hands-on Projects, Certificate, and Recommended Background) into a **single cohesive HTML landing page** with modern typography, emojis, and a toggle for light/dark mode?
 
 ## 🎓 **What You’ll Learn**
 
