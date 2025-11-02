@@ -11,8 +11,6 @@ If you’ve completed the **Deep Learning Specialization by DeepLearning.AI**, o
 
 ✨ Don’t worry if you’re not an expert yet — the courses include **guided projects**, **step-by-step labs**, and **practical examples** to help you quickly bridge any gaps.
 
-Would you like me to now **bundle all sections** (About, Why Learn, What You’ll Learn, Hands-on Projects, Certificate, and Recommended Background) into a **single cohesive HTML landing page** with modern typography, emojis, and a toggle for light/dark mode?
-
 ## 🎓 **What You’ll Learn**
 
 ### 🧩 **1. Build Deep Learning Systems Step-by-Step**
